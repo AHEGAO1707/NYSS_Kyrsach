@@ -1,0 +1,15 @@
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\App.g.cs
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach_MarkupCompile.cache
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach_MarkupCompile.lref
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\bin\Debug\NYSS_Kyrsach.exe.config
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\bin\Debug\NYSS_Kyrsach.exe
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\bin\Debug\NYSS_Kyrsach.pdb
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\MainWindow.baml
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach.g.resources
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach.Properties.Resources.resources
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach.exe
+C:\Users\Егор\source\repos\NYSS_Kyrsach\NYSS_Kyrsach\obj\Debug\NYSS_Kyrsach.pdb

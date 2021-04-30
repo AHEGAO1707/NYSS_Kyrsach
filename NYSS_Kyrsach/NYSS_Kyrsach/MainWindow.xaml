@@ -1,0 +1,21 @@
+﻿<Window x:Class="NYSS_Kyrsach.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NYSS_Kyrsach"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="506.436" Width="948.515">
+    <Grid x:Name="But_Rash">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Передать файл для дальнейшей расшифровки" Margin="288,26,0,412" Width="401" HorizontalAlignment="Left" VerticalAlignment="Center" Height="37" Click="Button_Click"/>
+        <TextBox x:Name="TextBox" HorizontalAlignment="Left" Height="175" Margin="66,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="797"/>
+        <Button x:Name="ButSaveDesh" Content="Сохранить результат расшифровки или зашифровки (на самом деле того, что находиться в области для ввода)" HorizontalAlignment="Left" Margin="164,331,0,0" VerticalAlignment="Top" Width="640" Click="Button_Click_1" Height="38"/>
+        <TextBox x:Name="Key" HorizontalAlignment="Left" Height="43" Margin="66,272,0,0" TextWrapping="Wrap" Text="Введите ключ здесь" VerticalAlignment="Top" Width="518" TextAlignment="Center" FontSize="14" FontStyle="Italic" TextDecorations="{x:Null}"/>
+        <Button Content="Зашифровать введённое выше сообщение" HorizontalAlignment="Left" Margin="610,272,0,0" VerticalAlignment="Top" Width="253" Height="43" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
